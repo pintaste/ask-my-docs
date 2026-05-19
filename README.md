@@ -1,6 +1,6 @@
 # ask-my-docs
 
-![Python](https://img.shields.io/badge/python-3.12-blue) ![Claude](https://img.shields.io/badge/Claude-API-orange) ![PyPI](https://img.shields.io/badge/PyPI-ask--my--docs-green)
+![Python](https://img.shields.io/badge/python-3.12-blue) ![Claude](https://img.shields.io/badge/Claude-API-orange) ![PyPI](https://img.shields.io/badge/PyPI-ask--my--docs-green) ![Tests](https://github.com/pintaste/ask-my-docs/actions/workflows/test.yml/badge.svg)
 
 Chat with your local markdown, text, and PDF files using Claude + semantic search.
 
